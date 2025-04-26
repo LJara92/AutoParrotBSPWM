@@ -78,7 +78,9 @@ chmod +x install.sh
 
 ## 📸 Captura de pantalla
 
-![Obtencion de la Flag](Imagen-ejemplo-1.png)
+![Escritorio1](Imagen-ejemplo-1.png)
+![Escritorio2](Imagen-ejemplo-2.png)
+![Escritorio3](Imagen-ejemplo-3.png)
 
 ---
 
