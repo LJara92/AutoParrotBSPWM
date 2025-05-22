@@ -100,5 +100,4 @@ Libre para usar, modificar y compartir.
 
 ## 🎯 Nota final
 
-Este script es ideal para usuarios de Parrot OS que buscan un entorno de escritorio minimalista, rápido y totalmente personalizado en cuestión de minutos.  
-¡Felices riceos! 🎨🐧
+Este script es ideal para usuarios de Parrot OS que buscan un entorno de escritorio minimalista, rápido y totalmente personalizado en cuestión de minutos. 🎨🐧
